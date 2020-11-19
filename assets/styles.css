@@ -1,0 +1,28 @@
+body{
+    background: rgb(225, 235, 255);
+}
+
+.info{
+    float: left;
+    margin: 0 10px 0 10px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+img {
+    margin-top: 20px
+}
+
+select {
+    margin-top: 10px;
+}
+
+form {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 10px;
+}
